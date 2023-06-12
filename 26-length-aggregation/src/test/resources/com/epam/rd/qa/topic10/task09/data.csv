@@ -1,0 +1,8 @@
+
+A~AB~ABC~B~BC~D ; 6-A~3-B~1-D
+
+D~A~AB~DBC~B~BCD ; 4-B~4-D~3-A
+
+D~A~AB~ABC~D ; 6-A~2-D
+
+A~B~B~D~C ; 2-B~1-A~1-C~1-D

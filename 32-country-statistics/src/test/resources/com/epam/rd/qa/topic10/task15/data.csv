@@ -1,0 +1,10 @@
+
+1~milk~Poland 2~milk~Russia 3~sugar~Poland 4~cucumber~Ukraine 5~onion~Ukraine 100~potato~Portugal ; 1~BigShop~12.50 1~SushiBar~10.50 3~BigShop~22.50 5~BigShop~15.00 4~SmallShop~40.00 4~AnotherShop~45.00 2~BigShop~12.50 ; Poland~3~10.50 Portugal~0~0 Russia~1~12.50 Ukraine~3~15.00
+
+2~milk~Russia 3~sugar~Poland 4~cucumber~Ukraine 5~onion~Ukraine 100~potato~Portugal ; 1~BigShop~12.50 1~SushiBar~10.50 3~BigShop~22.50 5~BigShop~15.00 4~SmallShop~40.00 4~AnotherShop~45.00 ; Poland~1~22.50 Portugal~0~0 Russia~0~0 Ukraine~3~15.00
+
+3~sugar~Poland 4~cucumber~Ukraine 5~onion~Ukraine 100~potato~Portugal ; 1~BigShop~12.50 1~SushiBar~10.50 3~BigShop~22.50 5~BigShop~15.00 4~SmallShop~40.00 ; Poland~1~22.50 Portugal~0~0 Ukraine~2~15.00
+
+4~cucumber~Ukraine 5~onion~Ukraine 100~potato~Portugal ; 1~BigShop~12.50 1~SushiBar~10.50 3~BigShop~22.50 5~BigShop~15.00 ; Portugal~0~0 Ukraine~1~15.00
+
+5~onion~Ukraine 100~potato~Portugal ; 1~BigShop~12.50 1~SushiBar~10.50 3~BigShop~22.50 ; Portugal~0~0 Ukraine~0~0
